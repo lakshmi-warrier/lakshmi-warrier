@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻 I’m currently an undergraduate in Computer Science Engineering with AI
-- 📱 I'm currently learning Android and Web app development🌐
+-  📱 I'm currently learning Android and Web app development🌐
 - 👧 Pronouns: She/ her
 
 <!---
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 --->
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=lakshmi-warrier&show_icons=true&theme=radical&hide_rank=true&count_private=true"/>
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=lakshmi-warrier&show_icons=true&theme=radical&hide_rank=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-warrier&layout=compact&langs_count=10&exclude_repo=AutomateBoringStuffWithPython&theme=radical" />
