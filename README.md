@@ -29,6 +29,21 @@ Here are some ideas to get you started:
 </p>
 
 --->
+
+<h3 align="left">I can handle:</h3>
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+
+
+<br>
+</p>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=lakshmi-warrier&show_icons=true&theme=radical&hide_rank=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-warrier&layout=compact&langs_count=10&exclude_repo=AutomateBoringStuffWithPython,lakshmi-warrier.github.io&theme=radical" />
