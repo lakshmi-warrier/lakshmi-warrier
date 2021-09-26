@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-- 💻 I’m currently an undergraduate in Computer Science Engineering with AI
--  📱 I'm currently learning Android and Web app development🌐
-- ⚡ Fun fact: I spot mistakes quite quickly and can think of weird inputs to make a code crash😏
-- 👧 Pronouns: She/ her
 
+-->
+
+- 💻 I’m currently an undergraduate in Computer Science Engineering with AI
+-   I'm currently learning Mobile 📱 and Web app development🌐 mainly using Flutter
+- 👧 Pronouns: She/ her
+- ⚡ Fun fact: I spot mistakes quite quickly and can think of weird inputs to make a code crash😏
+- 📫 How to reach me: Ping me on Telegram [@LakWarrier](https://t.me/LakWarrier).
 <!---
 <p align="left">
 
