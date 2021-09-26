@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -   I'm currently learning Mobile 📱 and Web app development🌐 mainly using Flutter
 - 👧 Pronouns: She/ her
 - ⚡ Fun fact: I spot mistakes quite quickly and can think of weird inputs to make a code crash😏
-- 📫 How to reach me: Ping me on Telegram [@LakWarrier](https://t.me/LakWarrier).
+- 📫 Ping me on Telegram [@LakWarrier](https://t.me/LakWarrier).
 <!---
 <p align="left">
 
