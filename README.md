@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 👧 Pronouns: She/ her
 - ⚡ Fun fact: I spot mistakes quite quickly and can think of weird inputs to make a code crash😏
 - 📫 Ping me on Telegram [@LakWarrier](https://t.me/LakWarrier).
+- 🖊️ I occassionally write at [dev.to](https://dev.to/lakshmiwarrier).
 <!---
 <p align="left">
 
