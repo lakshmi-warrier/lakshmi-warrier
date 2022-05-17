@@ -46,6 +46,4 @@ Here are some ideas to get you started:
 
 <br>
 </p>
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=lakshmi-warrier&show_icons=true&theme=radical&hide_rank=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-warrier&layout=compact&langs_count=8&exclude_repo=AutomateBoringStuffWithPython,lakshmi-warrier.github.io,Anki-Android&theme=radical" />
