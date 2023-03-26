@@ -1,19 +1,7 @@
 ### Hey, Lakshmi here 👋
 
-<!--
-**lakshmi-warrier/lakshmi-warrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
-
-- 💻 I’m currently an undergraduate in Computer Science Engineering with AI
+[
+](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)- 💻 I’m currently an undergraduate in Computer Science Engineering with AI
 -   I'm currently learning Mobile 📱 and Web app development🌐 mainly using Flutter
 - 👧 Pronouns: She/ her
 - ⚡ Fun fact: I spot mistakes quite quickly and can think of weird inputs to make a code crash😏
@@ -42,9 +30,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
 <br>
 </p>
 
