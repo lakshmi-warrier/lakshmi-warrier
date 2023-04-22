@@ -36,3 +36,4 @@
 <br>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-warrier&layout=compact&langs_count=8)](https://github.com/lakshmi-warrier)
